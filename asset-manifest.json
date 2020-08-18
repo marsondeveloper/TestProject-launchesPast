@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TestProject-launchesPast/static/css/main.14a82d68.chunk.css",
+    "main.js": "/TestProject-launchesPast/static/js/main.983a7090.chunk.js",
+    "main.js.map": "/TestProject-launchesPast/static/js/main.983a7090.chunk.js.map",
+    "runtime-main.js": "/TestProject-launchesPast/static/js/runtime-main.54f7ddfd.js",
+    "runtime-main.js.map": "/TestProject-launchesPast/static/js/runtime-main.54f7ddfd.js.map",
+    "static/js/2.c60cefc0.chunk.js": "/TestProject-launchesPast/static/js/2.c60cefc0.chunk.js",
+    "static/js/2.c60cefc0.chunk.js.map": "/TestProject-launchesPast/static/js/2.c60cefc0.chunk.js.map",
+    "index.html": "/TestProject-launchesPast/index.html",
+    "precache-manifest.783bb04689ca7edc96bdd9d36fae601e.js": "/TestProject-launchesPast/precache-manifest.783bb04689ca7edc96bdd9d36fae601e.js",
+    "service-worker.js": "/TestProject-launchesPast/service-worker.js",
+    "static/css/main.14a82d68.chunk.css.map": "/TestProject-launchesPast/static/css/main.14a82d68.chunk.css.map",
+    "static/js/2.c60cefc0.chunk.js.LICENSE.txt": "/TestProject-launchesPast/static/js/2.c60cefc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54f7ddfd.js",
+    "static/js/2.c60cefc0.chunk.js",
+    "static/css/main.14a82d68.chunk.css",
+    "static/js/main.983a7090.chunk.js"
+  ]
+}
