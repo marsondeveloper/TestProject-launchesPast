@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94687bb8-ef3c-4498-855d-a7d127a68426" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,36 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test-Project/mini-progect/testing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eject" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.eject" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,13 +64,33 @@
       <option name="presentableId" value="Default" />
       <updated>1597521809887</updated>
       <workItem from="1597521827880" duration="46000" />
+      <workItem from="1597790362978" duration="1097000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="224" key="FileChooserDialogImpl" timestamp="1597521875816">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state x="580" y="224" key="FileChooserDialogImpl/0.40.1600.860@0.40.1600.860" timestamp="1597521875816" />
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1597790857059">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.40.1600.860@0.40.1600.860" timestamp="1597790857059" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1597790857058">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.40.1600.860@0.40.1600.860" timestamp="1597790857058" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1597790857058">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.40.1600.860@0.40.1600.860" timestamp="1597790857058" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1597790857059">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.40.1600.860@0.40.1600.860" timestamp="1597790857059" />
   </component>
 </project>

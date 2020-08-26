@@ -11,7 +11,7 @@ let outPutlaunches = props.launches.map(el => <div key={el.id} className='launch
     <p>{"Название ракеты: " + el.rocket.rocket_name}</p>
     
     <div className="row"><div className="column">{el.links.flickr_images.map(im =>
-  <img src={im} alt={el.rocket.rocket_name}></img>)}</div></div> 
+  <img src={im} key={im} alt={el.rocket.rocket_name}></img>)}</div></div> 
    </div>)
    
     return (

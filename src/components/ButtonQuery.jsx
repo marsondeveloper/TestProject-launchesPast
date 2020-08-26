@@ -4,7 +4,7 @@ import {launchesAPI} from '../api/api';
 
 const ButtonQuery = (props) => {
 const  [launches, setLaunches] = useState([])
-const [request, setRequest] = useState();
+const [request, setRequest] = useState('');
 const [isSending, setIsSendRequest] = useState(false);
 
   
@@ -15,16 +15,19 @@ const [isSending, setIsSendRequest] = useState(false);
     .then(data => setLaunches(data.data.launchesPast)) 
     }
   }, [request]);
+
   
 let  onClickButton = () => {
+  if(props.inputText){
   setIsSendRequest(true)
     setRequest(props.inputText)
+  }
 }
     return (
         <div>
-            <input type={'button'} value={'Ok'} disabled={!props.folowingInProgress} onClick={onClickButton}/>
+            <input type={'button'} value={'Ok'} onClick={onClickButton} />
             <div>
-              <OutputData launches = {launches} />
+              <OutputData launches={launches} />
             </div>
         </div>
     )
